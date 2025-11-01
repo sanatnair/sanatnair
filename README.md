@@ -1,6 +1,9 @@
 ### Engineer fueled by innovation and driven by performance
 
 ## Publications
+
+Regal, F., Nair, S., Karmakar, A., Tankasala, S., & Pryor, M. (2026). Egocentric Gesture Dataset for Robust Human-Robot Communication via Head-Mounted Devices in Industrial and Military Settings. Under review at IEEE FG 2026. https://utnuclearroboticspublic.github.io/egonrg-website/
+
 Sharma, S., Huang, M., Nair, S., Wen, A., Petlowany, C., Moore, J., Wanna, S., & Pryor, M. (2024, July 19). [The Collection of a Human Robot Collaboration Dataset for Cooperative Assembly in Glovebox Environments](https://doi.org/10.48550/arXiv.2407.14649). arXiv.org. https://doi.org/10.48550/arXiv.2407.14649 
 
 Sharma, Shivansh; Huang, Mathew; Nair, Sanat; Wen, Alan; Petlowany, Christina; Wanna, Selma; Pryor, Mitch. (2024). [Hand and Glove Segmentation Dataset for Department of Energy Glovebox Environments](https://doi.org/10.18738/T8/85R7KQ). Texas Data Repository, V1. DOI: 10.18738/T8/85R7KQ
